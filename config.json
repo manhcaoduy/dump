@@ -1,6 +1,7 @@
 {
   "protocols": [
     {
+      "id": "manhcao1",
       "name": "manhcao1",
       "icon": "logo.svg",
       "metadata": {
